@@ -1,0 +1,50 @@
+C:\Users\polma\source\repos\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.csprojAssemblyReference.cache
+C:\Users\polma\source\repos\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.AssemblyInfoInputs.cache
+C:\Users\polma\source\repos\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.AssemblyInfo.cs
+C:\Users\polma\source\repos\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.exe
+C:\Users\polma\source\repos\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.deps.json
+C:\Users\polma\source\repos\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.runtimeconfig.json
+C:\Users\polma\source\repos\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.runtimeconfig.dev.json
+C:\Users\polma\source\repos\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.dll
+C:\Users\polma\source\repos\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.pdb
+C:\Users\polma\source\repos\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.dll
+C:\Users\polma\source\repos\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.pdb
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.exe
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.deps.json
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.runtimeconfig.json
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.runtimeconfig.dev.json
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.dll
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.pdb
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.csprojAssemblyReference.cache
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.csproj.CoreCompileInputs.cache
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.AssemblyInfoInputs.cache
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.AssemblyInfo.cs
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.dll
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.pdb
+C:\Users\polma_x7zuynn\Downloads\Pola Madej - Gra poprawiona wersja\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.genruntimeconfig.cache
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.exe
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.deps.json
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.runtimeconfig.json
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.runtimeconfig.dev.json
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.dll
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.pdb
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.csprojAssemblyReference.cache
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.csproj.CoreCompileInputs.cache
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.AssemblyInfoInputs.cache
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.AssemblyInfo.cs
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.dll
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.pdb
+C:\Users\polma_x7zuynn\Desktop\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.genruntimeconfig.cache
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.exe
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.deps.json
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.runtimeconfig.json
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.runtimeconfig.dev.json
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.dll
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\bin\Debug\netcoreapp3.0\Gra.pdb
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.csprojAssemblyReference.cache
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.AssemblyInfoInputs.cache
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.AssemblyInfo.cs
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.csproj.CoreCompileInputs.cache
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.dll
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.pdb
+C:\Users\polma_x7zuynn\Desktop\Informatyka\Świnki trzy i wilk\Gra\Gra\obj\Debug\netcoreapp3.0\Gra.genruntimeconfig.cache
